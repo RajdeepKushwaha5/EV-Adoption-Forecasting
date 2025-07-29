@@ -9,7 +9,7 @@
 
 **Advanced AI-Powered Electric Vehicle Adoption Forecasting for Washington State Counties**
 
-[🚀 Live Demo](#installation) | [📊 Features](#features) | [🔧 Installation](#installation) | [📈 Usage](#usage) | [🤝 Contributing](#contributing)
+[🚀 Live Demo](https://ev-adoption-forecasting-ouj8effthzovtxnlwvnase.streamlit.app/) | [📊 Features](#features) | [🔧 Installation](#installation) | [📈 Usage](#usage) | [🤝 Contributing](#contributing)
 
 </div>
 
