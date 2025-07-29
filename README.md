@@ -269,13 +269,13 @@ Features Used:
 ## 📱 Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x500/1e2328/00d4ff?text=EV+Forecasting+Dashboard)
+![Dashboard](dashboard.png)
 
 ### Interactive Charts
-![Charts](https://via.placeholder.com/800x400/1e2328/ff6b6b?text=Interactive+Plotly+Charts)
+![Charts](single.png)
 
 ### Multi-County Comparison
-![Comparison](https://via.placeholder.com/800x400/1e2328/00c851?text=County+Comparison+View)
+![Comparison](multi.png)
 
 ---
 
