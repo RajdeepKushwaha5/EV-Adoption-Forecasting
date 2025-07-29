@@ -406,8 +406,8 @@ copies or substantial portions of the Software.
 ### **Lead Developer**
 **Rajdeep Kushwaha** - *Full Stack Development & ML Engineering*
 - 🌐 GitHub: [@RajdeepKushwaha5](https://github.com/RajdeepKushwaha5)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [rajdeepsingh10789@gmail.com](mailto:rajdeepsingh10789@gmail.com)
+- 💼 LinkedIn: [Rajdeep Singh](https://www.linkedin.com/in/rajdeep-singh-b658a833a/)
 
 ### **Project Mentorship**
 **AICTE Internship Cycle 2 by S4F** - *Academic Guidance and Support*
@@ -439,7 +439,7 @@ copies or substantial portions of the Software.
 - **💬 Discussions**: Join our [GitHub Discussions](https://github.com/RajdeepKushwaha5/EV-Adoption-Forecasting/discussions)
 
 ### **Quick Links**
-- 🚀 [Live Demo](https://your-app-url.streamlit.app)
+- 🚀 [Live Demo](https://ev-adoption-forecasting-ouj8effthzovtxnlwvnase.streamlit.app/)
 - 📊 [GitHub Repository](https://github.com/RajdeepKushwaha5/EV-Adoption-Forecasting)
 - 🐛 [Report Issues](https://github.com/RajdeepKushwaha5/EV-Adoption-Forecasting/issues)
 - 📖 [Documentation](https://github.com/RajdeepKushwaha5/EV-Adoption-Forecasting/wiki)
